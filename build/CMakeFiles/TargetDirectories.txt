@@ -1,0 +1,3 @@
+/home/hat082/coursework/build/CMakeFiles/test.dir
+/home/hat082/coursework/build/CMakeFiles/edit_cache.dir
+/home/hat082/coursework/build/CMakeFiles/rebuild_cache.dir

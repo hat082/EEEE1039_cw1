@@ -1,0 +1,15 @@
+End of video
+Total frames processed: 370
+Total preprocessing time: 0.571514 seconds
+Total contour detection time: 0.0807131 seconds
+Average preprocessing time: 0.00154463 seconds / frame
+Average contour detection time: 0.000218144 seconds / frame
+Correct contour detection rate: 98.9865%
+
+End of video
+Total frames processed: 370
+Total preprocessing time: 0.301193 seconds
+Total contour detection time: 0.0599274 seconds
+Average preprocessing time: 0.000814034 seconds / frame
+Average contour detection time: 0.000161966 seconds / frame
+Correct contour detection rate: 79.4595%

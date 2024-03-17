@@ -1,0 +1,11 @@
+digraph {
+	A [label=Start]
+	A -> B [label="Link text"]
+	B [label=Decision]
+	B -> C [label=Yes]
+	B -> D [label=No]
+	C [label="Result 1"]
+	D [label="Result 2"]
+	C -> E [label=End]
+	D -> E
+}
